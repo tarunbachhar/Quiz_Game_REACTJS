@@ -6,7 +6,7 @@
 #### 3. Run 'npm start' to start project from the terminal or command prompt
 
 
-### Or you can directly run the Project by navigating to the dist folder and opening the html file in your browser's 
+### Or you can directly run the Project by navigating to the dist folder and opening the html file in your browser
 
 
 ### Make sure to have an internet connection when you operate the game.
